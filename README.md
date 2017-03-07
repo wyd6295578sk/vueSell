@@ -19,4 +19,5 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
 下载Demo完成时，需在本文件夹打开cmd窗口，输入npm install后在执行npm run dev
